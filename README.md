@@ -16,7 +16,7 @@ Software Engineer
 * ✉️  You can contact me at [mausammaheshkar01@gmail.com](mailto:mausammaheshkar01@gmail.com)
 * 🧠  I'm learning JavaScript, React.
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow xD
+* ⚡  I have a Electronics & Communication Engineering background, but most of the credit goes to Google and Stack Overflow xD
 
 
 <b>My GitHub Stats</b>
