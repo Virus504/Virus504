@@ -1,8 +1,8 @@
 Hi 👋 My name is Mausam Maheshkar
 ==============================
 
-Software Engineer
------------------
+Engineering Undergrad
+---------------------
 
 
 
