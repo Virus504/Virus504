@@ -1,7 +1,7 @@
 Hi 👋 My name is Mausam Maheshkar
 ==============================
 
-Engineering Undergrad
+CS Enthusiast
 ---------------------
 
 
@@ -14,9 +14,9 @@ Engineering Undergrad
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mausammaheshkar01@gmail.com](mailto:mausammaheshkar01@gmail.com)
-* 🧠  I'm learning JavaScript, React.
+* 🧠  I'm learning Gen AI, Azure, .NET, JavaScript, React, Java, DBMS.
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I have a Electronics & Communication Engineering background, but most of the credit goes to Google and Stack Overflow xD
+* ⚡  I have an Electronics & Communication Engineering background, but most of the credit goes to Google and Stack Overflow xD
 
 
 <b>My GitHub Stats</b>
