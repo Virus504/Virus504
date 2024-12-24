@@ -12,7 +12,7 @@ CS Enthusiast
    
    Software Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️
 
-* 🌍  I'm based in India
+* 🌍  I'm from Nagpur India
 * ✉️  You can contact me at [mausammaheshkar01@gmail.com](mailto:mausammaheshkar01@gmail.com)
 * 🧠  I'm learning Gen AI, Azure, AWS, .NET, React JS, Java, DBMS.
 * 🤝  I'm open to collaborating on interesting projects
