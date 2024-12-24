@@ -14,7 +14,7 @@ CS Enthusiast
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mausammaheshkar01@gmail.com](mailto:mausammaheshkar01@gmail.com)
-* 🧠  I'm learning Gen AI, Azure, .NET, JavaScript, React, Java, DBMS.
+* 🧠  I'm learning Gen AI, Azure, AWS, .NET, React JS, Java, DBMS.
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I have an Electronics & Communication Engineering background, but most of the credit goes to Google and Stack Overflow xD
 
